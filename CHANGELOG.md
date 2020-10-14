@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/) and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [1.2.0] - 2020-10-14
+### Fixed
+* Returning correct common type when more than one type is allowed [#13](https://github.com/callumbwhyte/super-value-converters/pull/13)
+
 ## [1.2.0] - 2019-07-22
 ### Added
 * Abstract `SuperValueConverterBase` class to support custom implementations
