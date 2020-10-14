@@ -6,9 +6,9 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <licenseUrl>https://github.com/callumbwhyte/super-value-converters/blob/master/LICENSE.md</licenseUrl>
+    <licenseUrl>https://github.com/callumbwhyte/super-value-converters/blob/main/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/callumbwhyte/super-value-converters</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/callumbwhyte/super-value-converters/master/docs/img/logo.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/callumbwhyte/super-value-converters/main/docs/img/logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <copyright>$copyright$</copyright>
